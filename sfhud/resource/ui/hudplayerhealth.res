@@ -8,8 +8,8 @@
 		"xpos"			"c-250"		[$WIN32]
 		"ypos"			"c32"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"400"
-		"tall"			"150"
+		"wide"			"300"
+		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
