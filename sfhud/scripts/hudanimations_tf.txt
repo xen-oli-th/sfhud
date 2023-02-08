@@ -1561,6 +1561,8 @@ event TeamStatus_PlayerDead
 
 event TeamStatus_PlayerAlive
 {
+	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.0
+
 	Animate DeathPanel ypos 0 Accel 0 0.2
 	Animate SkullPanel ypos 0 Accel 0 0.2
 	Animate respawntime ypos 0 Accel 0 0.2
