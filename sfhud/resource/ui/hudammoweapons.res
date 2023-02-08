@@ -137,7 +137,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
 		"xpos"			"75"
-		"ypos"			"63"	[$WIN32]
+		"ypos"			"63"
 		"zpos"			"3"
 		"wide"			"100"
 		"tall"			"2"
