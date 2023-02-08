@@ -187,18 +187,16 @@
 		"ypos"			"c20"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
-		//"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"2"
 	}
 	
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
-		"xpos_minmode"			"61"
-		"ypos"					"r152"
-		"ypos_minmode"			"r134"
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"c-155"
+		"ypos"					"c-10"
+		"wide"					"100"
+		"tall"  				"100"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
