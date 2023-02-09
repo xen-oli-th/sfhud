@@ -206,12 +206,12 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"180 255 255 255"		Linear 0.0 0.4
+	//Animate	PlayerStatusHealthValue 	fgcolor		"180 255 255 255"		Linear 0.0 0.4
 }
 
 event HudHealthBonusPulseStop
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	//Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
 }
 
 //===========================================

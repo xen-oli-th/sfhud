@@ -1,4 +1,4 @@
-#base "huditemeffectmeter_base.res"
+#base "huditemeffectcount_base.res"
 
 "Resource/UI/HudItemEffectMeter_Scout.res"
 {
