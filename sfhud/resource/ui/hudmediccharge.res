@@ -36,7 +36,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontGiantBold"
-		"fgcolor"		"180 255 255 255"
+		"fgcolor"		"SF_HealAqua"
 	}
 
 	"IndividualChargesLabel"
@@ -58,7 +58,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontGiantBold"
-		"fgcolor"		"180 255 255 255"
+		"fgcolor"		"SF_HealAqua"
 	}
 	
 	"ChargeMeter"

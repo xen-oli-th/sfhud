@@ -85,4 +85,20 @@
 		"bgcolor_override"		"TransparentLightBlack"
 		"fgcolor_override"		"White"
 	}
+	
+	"MeterBorder"
+	{	
+		"ControlName"			"EditablePanel"
+		"fieldName"				"MeterBorder"
+		"font"					"Default"
+		"xpos"					"75"
+		"ypos"					"122"
+		"zpos"					"3"
+		"wide"					"100"
+		"tall"					"6"			
+		"visible"				"1"
+		"enabled"				"1"
+		"paintborder"			"1"
+		"border"				"SF_SimpleBorder"
+	}
 }

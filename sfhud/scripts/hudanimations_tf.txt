@@ -206,12 +206,12 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	//Animate	PlayerStatusHealthValue 	fgcolor		"180 255 255 255"		Linear 0.0 0.4
+	Animate	PlayerStatusHealthValue 	fgcolor		"SF_HealAqua"		Linear 0.0 0.4
 }
 
 event HudHealthBonusPulseStop
 {
-	//Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
 }
 
 //===========================================
@@ -219,7 +219,7 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"255 120 120 255"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue 	fgcolor		"SF_WarnRed"		Linear 0.0 0.1
 }
 
 event HudHealthDyingPulseStop
@@ -231,9 +231,9 @@ event HudHealthDyingPulseStop
 
 event HudLowAmmoPulse
 {
-	Animate	AmmoInClip		fgcolor		"255 120 120 255"		Linear 0.0 0.1
-	Animate	AmmoInReserve	fgcolor		"255 120 120 255"		Linear 0.0 0.1
-	Animate	AmmoNoClip		fgcolor		"255 120 120 255"		Linear 0.0 0.1
+	Animate	AmmoInClip		fgcolor		"SF_WarnRed"		Linear 0.0 0.1
+	Animate	AmmoInReserve	fgcolor		"SF_WarnRed"		Linear 0.0 0.1
+	Animate	AmmoNoClip		fgcolor		"SF_WarnRed"		Linear 0.0 0.1
 }
 
 event HudLowAmmoPulseStop
@@ -398,8 +398,8 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	//Animate	ChargeLabel 	FgColor		"180 255 255 255"		Linear 0.0 0.2
-	Animate	ChargeMeter 	FgColor		"180 255 255 255"		Linear 0.0 0.2
+	//Animate	ChargeLabel 	FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter 	FgColor		"SF_HealAqua"		Linear 0.0 0.2
 }
 
 event HudMedicChargedStop

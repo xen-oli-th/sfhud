@@ -18,6 +18,10 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		"SF_HealAqua"		"180 255 255 255"
+		"SF_WarnRed"		"255 120 120 255"
+		"SF_Black"			"24 24 24 255"
+	
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -3036,6 +3040,46 @@ Scheme
 	// describes all the border types
 	Borders
 	{
+		SF_SimpleBorder
+		{
+		"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "SF_Black"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "SF_Black"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "SF_Black"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "SF_Black"
+					"offset" "0 0"
+				}
+			}
+		}
+	
 		NoBorder
 		{
 			"inset" "0 0 0 0"

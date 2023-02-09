@@ -47,7 +47,7 @@
 		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"80"
-		"tall"					"6"				
+		"tall"					"3"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -57,7 +57,23 @@
 		"brighttext"			"0"
 		"bgcolor_override"				"TransparentLightBlack"
 		"fgcolor_override"				"White"
-	}				
+	}		
+
+	"MeterBorder"
+	{	
+		"ControlName"			"EditablePanel"
+		"fieldName"				"MeterBorder"
+		"font"					"Default"
+		"xpos"					"10"
+		"ypos"					"25"
+		"zpos"					"3"
+		"wide"					"80"
+		"tall"					"3"				
+		"visible"				"1"
+		"enabled"				"1"
+		"paintborder"			"1"
+		"border"				"SF_SimpleBorder"
+	}	
 		
 	"PipesPresentPanel"
 	{
@@ -126,7 +142,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
-			"fgcolor"		"Black"
+			"fgcolor"		"SF_Black"
 		}		
 	}
 	
@@ -197,7 +213,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"HudFontMedium"
-			"fgcolor"		"Black"
+			"fgcolor"		"SF_Black"
 		}		
 	}				
 }

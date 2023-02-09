@@ -125,6 +125,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"HudFontMedium"
-		"fgcolor"				"Black"
+		"fgcolor"				"SF_Black"
 	}	
 }
