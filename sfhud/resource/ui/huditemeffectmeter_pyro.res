@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter.res"
+"Resource/UI/HudItemEffectMeter_Pyro.res"
 {
 	HudItemEffectMeter
 	{
@@ -35,7 +35,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"30"
-		"ypos"					"160"
+		"ypos"					"153"
 		"zpos"					"3"
 		"wide"					"40"
 		"tall"					"6"
@@ -49,10 +49,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
-		//"fgcolor"				"Black"
-		//"fgcolor_override"				"Black"
-		
-		
 	}
 
 	"ItemEffectMeter"
@@ -61,7 +57,7 @@
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
 		"xpos"					"75"
-		"ypos"					"160"
+		"ypos"					"153"
 		"zpos"					"2"
 		"wide"					"100"
 		"tall"					"6"				

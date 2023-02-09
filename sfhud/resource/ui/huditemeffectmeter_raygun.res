@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter.res"
+"Resource/UI/HudItemEffectMeter_Raygun.res"
 {
 	HudItemEffectMeter
 	{
@@ -44,15 +44,11 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"1"
-		"labelText"				"#TF_Ball"
+		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"TFFontSmall"
-		//"fgcolor"				"Black"
-		//"fgcolor_override"				"Black"
-		
-		
 	}
 
 	"ItemEffectMeter"
