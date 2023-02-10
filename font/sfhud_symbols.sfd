@@ -42,7 +42,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 42 21 6
+WinInfo: 0 21 6
 OnlyBitmaps: 1
 BeginChars: 256 0
 EndChars
