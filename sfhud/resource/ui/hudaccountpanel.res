@@ -62,7 +62,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontMediumSmall"
+		"font"			"SF_GenericBoldSmall"
 		"fgcolor"		"White"
 		}
 	"AccountValueShadow"
@@ -83,7 +83,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontMediumSmall"
+		"font"			"SF_GenericBoldSmall"
 		"fgcolor"		"SF_Black"
 		}
 }

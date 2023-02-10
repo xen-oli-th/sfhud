@@ -107,10 +107,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"12"
-		"ypos"					"6"
+		"ypos"					"2"
 		"zpos"					"2"
 		"wide"					"35"
-		"tall"					"20"	
+		"tall"					"22"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -119,7 +119,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"SF_GenericBold"
 		"fgcolor"				"White"
 	}
 	
@@ -128,10 +128,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
 		"xpos"					"13"
-		"ypos"					"7"
+		"ypos"					"3"
 		"zpos"					"1"
 		"wide"					"35"
-		"tall"					"20"	
+		"tall"					"22"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -140,7 +140,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"SF_GenericBold"
 		"fgcolor"				"SF_Black"
 	}	
 }
