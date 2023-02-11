@@ -38,6 +38,26 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"SF_Symbols"
+		{
+			"1"
+			{
+				"name"		"sfhud-symbols"
+				"tall"		"16"
+				"weight"	"0"
+				"antialias" "1"
+			}
+		}
+		"SF_SymbolsSmall"
+		{
+			"1"
+			{
+				"name"		"sfhud-symbols"
+				"tall"		"12"
+				"weight"	"0"
+				"antialias" "1"
+			}
+		}
 		
 		///////////// OFFICIAL FONTS /////////////
 		// fonts are used in order that they are listed
@@ -2737,5 +2757,9 @@ Scheme
 			"font" "resource/fonts/montserrat/Montserrat-Bold.ttf"
 			"name" "Montserrat Bold"
 		}
+		"9"
+		{
+			"font" "resource/fonts/sfhud-symbols.ttf"
+			"name" "sfhud-symbols"
 	}
 }
