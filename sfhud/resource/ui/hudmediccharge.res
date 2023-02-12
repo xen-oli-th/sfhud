@@ -35,8 +35,8 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"SF_HealAqua"
+		"font"			"SF_HudFontGiantBold"
+		"fgcolor"		"White"
 	}
 
 	"IndividualChargesLabel"
@@ -57,8 +57,8 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"HudFontGiantBold"
-		"fgcolor"		"SF_HealAqua"
+		"font"			"SF_HudFontGiantBold"
+		"fgcolor"		"White"
 	}
 	
 	"ChargeMeter"

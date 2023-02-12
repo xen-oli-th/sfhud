@@ -43,7 +43,7 @@ Scheme
 			"1"
 			{
 				"name"		"sfhud-symbols"
-				"tall"		"16"
+				"tall"		"18"
 				"weight"	"0"
 				"antialias" "1"
 			}
@@ -56,6 +56,19 @@ Scheme
 				"tall"		"12"
 				"weight"	"0"
 				"antialias" "1"
+			}
+		}
+		"SF_HudFontGiantBold"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"44"
+				"tall_lodef"	"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"outline" "1"
 			}
 		}
 		

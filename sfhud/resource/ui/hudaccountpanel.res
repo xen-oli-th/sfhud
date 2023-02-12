@@ -64,7 +64,8 @@
 		"brighttext"	"0"
 		"font"			"SF_GenericBoldSmall"
 		"fgcolor"		"White"
-		}
+	}
+		
 	"AccountValueShadow"
 	{
 		"ControlName"	"CExLabel"
@@ -85,5 +86,49 @@
 		"brighttext"	"0"
 		"font"			"SF_GenericBoldSmall"
 		"fgcolor"		"SF_Black"
-		}
+	}
+		
+	"MetalSymbol"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"MetalSymbol"
+		"xpos"			"20"
+		"ypos"			"2"
+		"zpos"			"2"
+		"wide"			"60"
+		"tall"			"22"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"M"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"SF_SymbolsSmall"
+		"fgcolor"		"White"
+	}
+	
+	"MetalSymbolShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"MetalSymbolShadow"
+		"xpos"			"21"
+		"ypos"			"3"
+		"zpos"			"1"
+		"wide"			"60"
+		"tall"			"22"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"M"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"SF_SymbolsSmall"
+		"fgcolor"		"SF_Black"
+	}
 }

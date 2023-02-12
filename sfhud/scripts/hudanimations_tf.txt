@@ -398,14 +398,24 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	//Animate	ChargeLabel 	FgColor		"SF_HealAqua"		Linear 0.0 0.2
-	Animate	ChargeMeter 	FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeLabel 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	IndividualChargesLabel 	FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter1 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter2 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter3 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter4 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
+	Animate	ChargeMeter 			FgColor		"SF_HealAqua"		Linear 0.0 0.2
 }
 
 event HudMedicChargedStop
 {
-	//Animate	ChargeLabel 	FgColor		"White"		Linear 0.0 0.2
-	Animate	ChargeMeter 	FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeLabel 			FgColor		"White"		Linear 0.0 0.2
+	Animate	IndividualChargesLabel 	FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeMeter1 			FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeMeter2 			FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeMeter3 			FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeMeter4 			FgColor		"White"		Linear 0.0 0.2
+	Animate	ChargeMeter 			FgColor		"White"		Linear 0.0 0.2
 }
 
 //====================================
