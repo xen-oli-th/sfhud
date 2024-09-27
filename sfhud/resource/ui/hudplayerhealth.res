@@ -91,6 +91,7 @@
 		"font"			"HudFontGiantBold"
 		"fgcolor"		"SF_Black"
 	}
+	
 	"PlayerStatusHealthValueShadow2"
 	{
 		"ControlName"	"CExLabel"

@@ -35,8 +35,30 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"SF_HudFontGiantBold"
+		"font"			"HudFontGiantBold"
 		"fgcolor"		"White"
+	}
+	
+	"ChargeLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabelShadow"
+		"xpos"			"-3"
+		"ypos"			"11"
+		"zpos"			"1"
+		"wide"			"150"
+		"tall"			"40"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"#TF_UberchargeMinHUD"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"font"			"HudFontGiantBold"
+		"fgcolor"		"SF_Black"
 	}
 
 	"IndividualChargesLabel"
@@ -80,7 +102,7 @@
 		"brighttext"	"0"
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"Blank"
-	}		
+	}				
 
 	"ChargeMeter1"
 	{	
@@ -196,6 +218,7 @@
 		"scaleImage"	"1"	
 		"alpha"			"200"
 	}
+	
 	"TeamIndicator"
 	{
 		"ControlName"	"CTFImagePanel"

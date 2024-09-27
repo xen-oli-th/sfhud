@@ -79,11 +79,11 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c75"	[$WIN32]
-		"ypos"			"c90"	[$WIN32]
+		"xpos"			"c-50"	[$WIN32]
+		"ypos"			"c20"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"100"
-		"tall"			"10"
+		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Blank"
 	}	
@@ -1024,6 +1024,7 @@
 		"enabled"		"1"
 		"xpos"			"c-50"
 		"ypos"			"c20"
+		"zpos"			"3"
 		"wide"			"400"
 		"tall"			"200"
 	}	

@@ -26,7 +26,7 @@
 //			Bias - < bias > Lower values bias the curve towards 0 and higher values bias it towards 1.
 //
 //	RunEvent <event name> <start time>
-//		starts another even running at the specified time
+//		starts another event running at the specified time
 //
 //	StopEvent <event name> <start time>
 //		stops another event that is current running at the specified time
@@ -206,12 +206,14 @@ event KeyHintMessageHide
 //Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"SF_HealAqua"		Linear 0.0 0.4
+	//Animate	PlayerStatusHealthValue 	fgcolor		"SF_HealAqua"		Linear 0.0 0.4
+	Animate	PlayerStatusHealthValue 	fgcolor		"SF_HealAqua"		Linear 0.0 0.0
 }
 
 event HudHealthBonusPulseStop
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	//Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.0
 }
 
 //===========================================
@@ -219,12 +221,14 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"SF_WarnRed"		Linear 0.0 0.1
+	//Animate	PlayerStatusHealthValue 	fgcolor		"SF_WarnRed"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue 	fgcolor		"SF_WarnRed"		Linear 0.0 0.0
 }
 
 event HudHealthDyingPulseStop
 {
-	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	//Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue 	fgcolor		"White"		Linear 0.0 0.0
 }
 
 //===========================================
@@ -736,7 +740,6 @@ event NotificationsPresentBlinkStop
 
 event DamagedPlayer
 {
-	// empty
 }
 
 //===========================================
